@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.todo {
+  background: pink;
+  padding: 3px 10px;
+  font-size: 20px;
+  margin-bottom: 6px;
+}
+
+.input {
+  width: 50%;
+  box-sizing: border-box;
+  border-radius: 4px;
+  padding: 1rem;
+  height: 1em;
+  font-size: 20px;
+}
+
+.todo-list {
+  background: #e8e8e8;
+  border-radius: 4px;
+  padding: 5px;
+  max-width: 400px;
+}
